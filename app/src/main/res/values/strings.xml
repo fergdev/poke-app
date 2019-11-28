@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PokeApp</string>
+    <string name="error">Error</string>
+    <string name="ok">Ok</string>
+    <string name="action_search">Search</string>
+    <string name="search_pokemon">Search pokemon</string>
+    <string name="empty_message">No pokemon match your search</string>
+    <string name="height">Height %1$d</string>
+    <string name="weight">Weight %1$d</string>
+    <string name="error_message_default">Unable to load pokemon data</string>
+
+</resources>
